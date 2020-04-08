@@ -1,4 +1,4 @@
-namespace DatingApp.ApI.Model
+namespace DatingApp.API.Models
 {
     public class Value
     {
